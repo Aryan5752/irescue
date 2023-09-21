@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982867337861",
+    "project_id": "irescue-2e6ca",
+    "storage_bucket": "irescue-2e6ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982867337861:android:e195382de95117ea157fec",
+        "android_client_info": {
+          "package_name": "com.example.irescue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFNR4PRQEkzFSyA3hjYWR-sXHPkWylwEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
